@@ -10,3 +10,7 @@ Aplicações (incluindo ambiente para uso de Grafana + OpenTelemetry com scripts
 - [**API Saudações (Node.js)**](https://github.com/renatogroffe/nodejs-otel-jaeger_apisaudacoes)
 - [**Consumer das APIs (Java + Spring + Apache Camel)**](https://github.com/renatogroffe/nodejs-otel-jaeger_apisaudacoes)
 - [**Inteligência Artificial com Semantic Kernel + .NET 9 + Grafana**](https://github.com/renatogroffe/dotnet9-semantickernel-postgres-otel-grafana_consultaprodutos)
+
+Exemplo de trace mostrando a comunicação entre aplicações:
+
+![Trace com aplicações .NET, Java e Node.js](docs/trace-grafana-otel.png)
