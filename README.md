@@ -11,6 +11,10 @@ Aplicações (incluindo ambiente para uso de Grafana + OpenTelemetry com scripts
 - [**Consumer das APIs (Java + Spring + Apache Camel)**](https://github.com/renatogroffe/nodejs-otel-jaeger_apisaudacoes)
 - [**Inteligência Artificial com Semantic Kernel + .NET 9 + Grafana**](https://github.com/renatogroffe/dotnet9-semantickernel-postgres-otel-grafana_consultaprodutos)
 
-Exemplo de trace mostrando a comunicação entre aplicações:
+Exemplo de trace mostrando a comunicação entre as aplicações .NET, Java e Node.js:
 
 ![Trace com aplicações .NET, Java e Node.js](docs/trace-grafana-otel.png)
+
+Trace demonstrando o uso de Azure OpenAI na aplicação criada com .NET 9 + Semantic Kernel:
+
+![Trace de aplicação que utiliza Azure OpenAI](docs/trace-grafana-otel-openai.png)
