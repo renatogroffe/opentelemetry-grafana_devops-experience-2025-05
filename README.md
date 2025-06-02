@@ -21,6 +21,8 @@ Trace demonstrando o uso de Azure OpenAI na aplicação criada com .NET 9 + Sema
 
 ---
 
+## Informações sobre o evento
+
 Título da apresentação: **OpenTelemetry + Grafana: observabilidade, monitoramento, novidades com Grafana Alloy...**
 
 Data: **29/05/2025 (quinta-feira)**
