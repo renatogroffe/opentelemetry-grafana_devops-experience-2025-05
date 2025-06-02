@@ -29,7 +29,7 @@ Tipo do evento: **Online**
 
 Ferramenta de transmissão: **Zoom**
 
-Tecnologias e tópicos abordados: **Grafana, Grafana Tempo, Grafana Loki, Grafana Alloy, OpenTelemetry, Prometheus, Observabilidade, Monitoramento, SRE, Containers, DevOps, Microsoft Azure, Azure OpenAI, Azure Monitor, Docker, Docker Compose, .NET, ASP.NET Core, Java, Spring, Apache Camel, Node.js SQL Server, PostgreSQL, MySQL, Linux, CNCF, Cloud Native...**
+Tecnologias e tópicos abordados: **Grafana, Grafana Tempo, Grafana Loki, Grafana Alloy, OpenTelemetry, Prometheus, Observabilidade, Monitoramento, SRE, Containers, DevOps, Microsoft Azure, Azure OpenAI, Ollama, Semantic Kernel, Azure Monitor, Docker, Docker Compose, .NET, ASP.NET Core, Java, Spring, Apache Camel, Node.js SQL Server, PostgreSQL, MySQL, Linux, CNCF, Cloud Native...**
 
 Número de participantes: **88 pessoas (pico de audiência ao longo da live)**
 
@@ -43,7 +43,17 @@ Deixamos aqui nossos agradecimentos ao **Daniel Ginês** e à **Aline Martins** 
 
 ![Audiência](img/audiencia.jpg)
 
-![Renato e Diego palestrando](img/x.png)
+![Renato e Diego palestrando](img/grafana-otel-38.jpg)
+
+![Renato e Diego palestrando](img/grafana-otel-38.jpg)
+
+![Renato e Diego palestrando](img/grafana-otel-24.jpg)
+
+![Renato e Diego palestrando](img/grafana-otel-31.jpg)
+
+![Renato e Diego palestrando](img/grafana-otel-09.png)
+
+![Renato e Diego palestrando](img/grafana-otel-08.png)
 
 ![Banner](img/banner.jpg)
 
