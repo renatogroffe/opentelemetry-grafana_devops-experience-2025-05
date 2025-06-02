@@ -21,7 +21,7 @@ Trace demonstrando o uso de Azure OpenAI na aplicação criada com .NET 9 + Sema
 
 ---
 
-Título da apresentação: **Observabilidade Unificada com OpenTelemetry: tracing de aplicações distribuídas em várias stacks**
+Título da apresentação: **OpenTelemetry + Grafana: observabilidade, monitoramento, novidades com Grafana Alloy...**
 
 Data: **29/05/2025 (quinta-feira)**
 
@@ -33,7 +33,7 @@ Tecnologias e tópicos abordados: **Grafana, Grafana Tempo, Grafana Loki, Grafan
 
 Número de participantes: **88 pessoas (pico de audiência ao longo da live)**
 
-Link do evento: [**LinkedIn**](https://www.linkedin.com/posts/devopsheroes_o-renato-groffe-ta-confirmado-para-a-edi%C3%A7%C3%A3o-activity-7320551983067615234-Tzy_/)
+Link do evento: [**LinkedIn**](https://www.linkedin.com/posts/devopsheroes_o-renato-groffe-vem-amanh%C3%A3-para-falar-sobre-activity-7333601004229193730-RzD1/)
 
 Esta palestra foi realizada em conjunto com meu amigo **Diego Moreira Matos (Microsoft MVP)**.
 
