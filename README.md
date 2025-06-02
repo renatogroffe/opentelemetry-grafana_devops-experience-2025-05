@@ -41,7 +41,7 @@ Deixamos aqui nossos agradecimentos ao **Daniel Ginês** e à **Aline Martins** 
 
 ---
 
-![Audiência](img/audiencia.png)
+![Audiência](img/audiencia.jpg)
 
 ![Renato e Diego palestrando](img/x.png)
 
